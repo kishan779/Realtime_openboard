@@ -1,3 +1,10 @@
+To host this file : Use render 
+nd use webservice in render site not static
+and follow this video
+
+https://www.youtube.com/watch?v=eXAYkk99TaY
+
+
 npm init -y
 
 
